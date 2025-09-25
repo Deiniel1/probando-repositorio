@@ -1,3 +1,4 @@
 # probando-repositorio
 aventurando en git hub
-## Probando el entorno git hub para potenciar mis herramientas y habilidades.
+## Descripcion
+Probando el entorno git hub para potenciar mis herramientas y habilidades.
