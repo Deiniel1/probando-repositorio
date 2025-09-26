@@ -1,4 +1,4 @@
-nombre = "Ana Buitrago"
+nombre = "Juan Buitrago"
 edad = 52
 altura = 1.75
 pregunta = "¿Eres estudiante?"
@@ -68,4 +68,5 @@ else:
 nom = "niko"
 print(nom=="niko")
 """ Es true ya que a pesar de que no se este haciendo una comprativa con condicionales, se usa el operador,
+
 de comparacion o de igualdad de python que es == """
