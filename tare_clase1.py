@@ -1,4 +1,4 @@
-nombre = "Daniel Buitrago"
+nombre = "Ana Buitrago"
 edad = 52
 altura = 1.75
 pregunta = "¿Eres estudiante?"
